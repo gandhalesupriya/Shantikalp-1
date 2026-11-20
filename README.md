@@ -1,7 +1,7 @@
 # Shantikalp IPR Consultancy Website
 
 A responsive React + Vite corporate website starter for Shantikalp, using a navy, white and gold visual identity.
-
+verify
 ## Requirements
 - Windows 10/11
 - Node.js LTS (https://nodejs.org/)
