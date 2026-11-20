@@ -10,3 +10,10 @@ export default defineConfig({
   }
 })
 Update Vite configuration
+export default defineConfig({
+  base: '/shantikalp/',
+  plugins: [react()],
+  server: {
+    host: '0.0.0.0'
+  }
+})
